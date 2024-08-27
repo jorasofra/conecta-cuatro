@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conecta-cuatro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+195d92f017717e6f86024f92ab75fa203c6dc365")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5218e6d8476fd9b545e5be7ee2c896a04b9e79ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conecta-cuatro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conecta-cuatro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
